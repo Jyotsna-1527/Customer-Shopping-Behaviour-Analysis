@@ -1,0 +1,101 @@
+Customer_ID,Age,Gender,Category,Purchase_Amount,Discount_Applied,Payment_Method,Rating,Purchase_Frequency,Location
+C001,58,Female,Electronics,1004,Yes,Credit Card,2.8,2,Coimbatore
+C002,23,Male,Home & Kitchen,2228,Yes,UPI,3.0,1,Coimbatore
+C003,30,Male,Home & Kitchen,2218,No,Debit Card,4.5,1,Bangalore
+C004,45,Male,Groceries,769,Yes,Debit Card,2.8,7,Chennai
+C005,40,Female,Groceries,1436,Yes,Cash,3.8,7,Chennai
+C006,53,Female,Groceries,1898,Yes,UPI,2.6,4,Hyderabad
+C007,23,Female,Clothing,713,No,Cash,4.1,6,Bangalore
+C008,41,Female,Groceries,629,Yes,Credit Card,3.8,4,Bangalore
+C009,47,Male,Beauty,802,No,UPI,3.1,1,Hyderabad
+C010,43,Male,Groceries,335,No,Credit Card,4.1,7,Mumbai
+C011,27,Male,Groceries,485,No,Cash,4.7,7,Hyderabad
+C012,32,Female,Clothing,2387,Yes,UPI,4.7,3,Bangalore
+C013,45,Female,Home & Kitchen,760,No,Cash,3.8,1,Chennai
+C014,52,Female,Groceries,1774,Yes,Debit Card,3.6,8,Chennai
+C015,34,Male,Home & Kitchen,3620,Yes,Debit Card,4.6,4,Bangalore
+C016,41,Male,Clothing,2472,No,Cash,2.5,6,Hyderabad
+C017,33,Male,Electronics,2773,Yes,Cash,4.5,3,Bangalore
+C018,60,Male,Beauty,2189,No,Cash,4.9,4,Hyderabad
+C019,43,Female,Groceries,1097,Yes,Credit Card,3.1,6,Chennai
+C020,55,Male,Home & Kitchen,1442,Yes,UPI,4.3,1,Bangalore
+C021,22,Male,Electronics,3506,Yes,Debit Card,4.2,4,Coimbatore
+C022,26,Female,Home & Kitchen,2860,Yes,Cash,4.5,4,Chennai
+C023,24,Female,Beauty,975,No,Cash,4.7,1,Chennai
+C024,21,Female,Beauty,1741,Yes,Credit Card,3.0,8,Bangalore
+C025,45,Female,Clothing,1440,Yes,UPI,3.6,2,Chennai
+C026,59,Male,Home & Kitchen,3924,Yes,Credit Card,2.9,8,Mumbai
+C027,31,Male,Beauty,2098,Yes,Cash,2.5,7,Hyderabad
+C028,47,Female,Groceries,1066,Yes,Credit Card,3.2,1,Coimbatore
+C029,52,Male,Electronics,3369,Yes,Cash,3.8,3,Chennai
+C030,50,Male,Electronics,2322,Yes,Credit Card,3.5,4,Coimbatore
+C031,56,Female,Electronics,1471,No,Debit Card,3.0,6,Bangalore
+C032,34,Female,Beauty,518,No,Debit Card,4.8,2,Chennai
+C033,47,Male,Home & Kitchen,2806,Yes,Credit Card,3.8,3,Hyderabad
+C034,22,Female,Clothing,1813,Yes,Cash,4.6,5,Coimbatore
+C035,59,Female,Home & Kitchen,532,Yes,Credit Card,3.2,2,Coimbatore
+C036,27,Male,Groceries,777,No,Credit Card,4.2,5,Coimbatore
+C037,49,Male,Groceries,1932,Yes,Cash,4.6,1,Chennai
+C038,39,Male,Clothing,1372,No,Cash,3.9,2,Chennai
+C039,27,Female,Home & Kitchen,647,Yes,Cash,2.8,5,Hyderabad
+C040,20,Male,Groceries,630,Yes,Debit Card,4.5,7,Coimbatore
+C041,27,Male,Clothing,965,No,UPI,2.9,6,Mumbai
+C042,60,Male,Clothing,1392,Yes,Cash,4.7,8,Bangalore
+C043,30,Female,Beauty,966,Yes,Credit Card,2.6,4,Mumbai
+C044,39,Male,Groceries,1970,No,Debit Card,4.1,7,Coimbatore
+C045,39,Female,Electronics,1744,Yes,Debit Card,2.6,7,Hyderabad
+C046,38,Male,Beauty,1491,No,Credit Card,3.1,7,Chennai
+C047,51,Male,Home & Kitchen,3313,No,Cash,2.7,6,Coimbatore
+C048,38,Female,Electronics,3260,No,Debit Card,3.5,5,Coimbatore
+C049,26,Female,Clothing,2022,Yes,Debit Card,3.5,1,Hyderabad
+C050,36,Female,Clothing,2060,No,Cash,3.6,4,Coimbatore
+C051,48,Female,Clothing,647,No,UPI,4.5,4,Hyderabad
+C052,32,Male,Clothing,903,Yes,Credit Card,5.0,2,Mumbai
+C053,44,Female,Home & Kitchen,1296,No,Cash,3.1,1,Chennai
+C054,45,Female,Clothing,1020,Yes,Credit Card,4.8,2,Mumbai
+C055,26,Female,Beauty,1617,No,Cash,4.6,8,Bangalore
+C056,48,Male,Beauty,780,No,Cash,4.1,5,Mumbai
+C057,22,Female,Groceries,680,No,Debit Card,4.7,2,Bangalore
+C058,27,Male,Clothing,1868,Yes,UPI,3.5,6,Coimbatore
+C059,47,Male,Beauty,377,No,Cash,4.8,1,Coimbatore
+C060,42,Female,Beauty,262,No,Cash,4.6,7,Coimbatore
+C061,52,Female,Home & Kitchen,1403,Yes,Debit Card,3.6,1,Mumbai
+C062,39,Male,Beauty,1733,No,Credit Card,5.0,1,Mumbai
+C063,55,Male,Home & Kitchen,3215,Yes,Cash,2.8,8,Bangalore
+C064,21,Female,Groceries,976,Yes,Cash,3.3,7,Hyderabad
+C065,44,Male,Groceries,1909,No,UPI,4.4,1,Hyderabad
+C066,32,Male,Electronics,1129,Yes,Credit Card,4.6,3,Bangalore
+C067,26,Male,Beauty,1621,Yes,Cash,4.2,6,Bangalore
+C068,56,Male,Home & Kitchen,3563,Yes,Debit Card,2.8,1,Hyderabad
+C069,54,Male,Beauty,1062,Yes,Credit Card,2.8,5,Coimbatore
+C070,25,Male,Home & Kitchen,3705,No,Cash,4.2,2,Coimbatore
+C071,59,Female,Groceries,225,No,UPI,3.6,6,Mumbai
+C072,27,Female,Beauty,610,No,Cash,3.6,5,Hyderabad
+C073,33,Female,Electronics,3084,Yes,Cash,3.9,7,Hyderabad
+C074,19,Female,Beauty,1992,Yes,Cash,3.0,5,Hyderabad
+C075,35,Female,Home & Kitchen,3372,Yes,Credit Card,2.7,7,Mumbai
+C076,53,Female,Clothing,2250,No,UPI,2.7,4,Mumbai
+C077,33,Female,Groceries,1559,No,Debit Card,3.6,6,Hyderabad
+C078,47,Female,Groceries,827,Yes,UPI,4.3,6,Chennai
+C079,52,Male,Clothing,1084,No,Debit Card,4.3,5,Chennai
+C080,30,Female,Groceries,665,Yes,Debit Card,2.5,3,Hyderabad
+C081,20,Male,Electronics,3193,No,UPI,4.7,5,Mumbai
+C082,48,Male,Beauty,947,Yes,Debit Card,4.9,8,Chennai
+C083,22,Male,Beauty,1257,Yes,Credit Card,2.9,5,Chennai
+C084,33,Male,Electronics,4209,No,Cash,4.8,5,Coimbatore
+C085,45,Male,Groceries,1364,Yes,Credit Card,4.1,5,Chennai
+C086,28,Male,Clothing,1011,Yes,UPI,3.5,8,Hyderabad
+C087,20,Female,Clothing,1480,No,UPI,4.2,5,Coimbatore
+C088,60,Male,Clothing,2041,Yes,Credit Card,4.8,3,Chennai
+C089,21,Female,Clothing,1559,No,UPI,3.7,5,Mumbai
+C090,35,Female,Home & Kitchen,2711,No,UPI,4.0,7,Hyderabad
+C091,56,Male,Groceries,252,Yes,UPI,5.0,5,Coimbatore
+C092,20,Female,Clothing,2227,No,Credit Card,5.0,7,Mumbai
+C093,23,Female,Beauty,962,No,Debit Card,4.2,3,Hyderabad
+C094,44,Female,Beauty,840,Yes,Cash,2.7,5,Hyderabad
+C095,25,Male,Beauty,2021,No,Cash,2.6,6,Coimbatore
+C096,49,Male,Beauty,1806,Yes,Debit Card,3.9,5,Mumbai
+C097,49,Male,Electronics,1036,Yes,Debit Card,3.9,7,Chennai
+C098,32,Male,Electronics,4580,Yes,Cash,4.8,5,Coimbatore
+C099,35,Female,Beauty,1959,No,Credit Card,3.6,3,Mumbai
+C100,30,Male,Home & Kitchen,2581,Yes,Debit Card,4.4,7,Hyderabad
